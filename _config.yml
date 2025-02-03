@@ -16,7 +16,7 @@ timezone: America/New_York
 
 title: Notes by Dennis # the main title
 
-tagline: Documenting the journey, sharing the notes! # it will display as the subtitle
+tagline: Every step recorded, every note shared # it will display as the subtitle
 
 description: >-      # used by seo meta and the atom feed
   A tech journal documenting everything I learn and do with my home server, featuring tutorials on PowerShell, Red Hat, Wazuh, pfSense, and more
